@@ -31,13 +31,21 @@ Report Generator: WeasyPrint (PDF reports)
 📂 Project Structure
 BrainTumorDetection/
 │── app.py                # Main Flask application
+
 │── models.py             # Database models (User, Reports)
+
 │── static/               # Static files (CSS, JS, images)
+
 │── templates/            # HTML templates
+
 │── neurosight.db         # SQLite database
+
 │── swin_transformer_best_T1.pth  # Pretrained Swin model (T1)
+
 │── swin_transformer_best_T2.pth  # Pretrained Swin model (T2)
+
 │── requirements.txt      # Python dependencies
+
 │── README.md             # Project documentation
 
 ⚙️ Installation & Setup

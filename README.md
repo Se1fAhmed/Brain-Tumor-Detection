@@ -42,7 +42,6 @@ BrainTumorDetection/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/BrainTumorDetection.git
 cd BrainTumorDetection
 
 2️⃣ Create a Virtual Environment
@@ -65,10 +64,6 @@ python app.py
 
 
 Open browser → http://127.0.0.1:5000
-
-📸 Screenshots
-
-(Add here screenshots of login page, upload page, prediction results, PDF report, etc.)
 
 🔮 Future Work
 
